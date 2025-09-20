@@ -148,6 +148,7 @@ font-family: 'Source Code Pro', monospace;
 #nav1:hover, #nav2:hover, #nav3:hover, #nav4:hover, #nav5:hover,#nav6:hover{
   color: #39ff14; 
   text-shadow: 0 0 8px #00ff44, 0 0 15px #00ff44;
+text-transform:uppercase;
 }
 
 #page:hover{
