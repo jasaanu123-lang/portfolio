@@ -5,7 +5,7 @@ h2{font-family:fantasy;
 
 #srt{
     font-weight: bold;
-  background: linear-gradient(90deg, #00ff00, #00ff88, #004400);
+  background: linear-gradient(90deg, #00ff00, #00ff88, #03b003);
   background-clip: text;
   -webkit-background-clip: text; 
   color: transparent;
@@ -19,7 +19,7 @@ h2{font-family:fantasy;
   -webkit-background-clip: text; 
   color: transparent;
   -webkit-text-fill-color: transparent; 
-
+font-size: 40px;
 }
 
 .education{
